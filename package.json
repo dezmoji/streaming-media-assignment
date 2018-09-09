@@ -1,10 +1,6 @@
 {
     "name": "streaming-media-assignment",
     "version": "1.0.0",
-    "engines": {
-        "node": "10.9.0",
-        "npm": "6.2.0"
-    },
     "description": "Streaming Media Assignment",
     "main": "index.js",
     "scripts": {
